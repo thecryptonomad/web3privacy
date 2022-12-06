@@ -105,6 +105,7 @@ Feel free to update the list!
 - [Light Protocol](https://www.lightprotocol.com) - The Privacy Layer for Solana ([Docs](https://docs.lightprotocol.com)) 
 - [Verida](https://www.verida.io) - A multi-chain protocol for interoperable database storage and messaging built on decentralized identity ([GitHub](https://github.com/verida/)) 
 - [Partisia blockchain](https://partisiablockchain.com) - Partisia Blockchain is built for trust, transparency, privacy, and speed of light finalization ([Docs](https://partisiablockchain.gitlab.io/documentation/index.html)) 
+- [Origo network](https://origo.network/) - Privacy preserving platform to build decentralized applications
 - [Integritee](https://integritee.network) - Integritee is the most scalable public blockchain solution for securely processing sensitive business or personal data ([GitHub](https://github.com/integritee-network))
 - [XX network](https://xx.network) -  the first and only quantum-resistant and privacy-focused blockchain ecosystem ([GitLab](https://git.xx.network/explore))
 - [Fedimint](https://fedimint.org) -  An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy ([GitHub](https://github.com/fedimint))
@@ -118,7 +119,7 @@ Feel free to update the list!
 - [Haven Protocol](https://havenprotocol.org) - Haven Protocol is the world’s only network of private stable assets ([GitHub](https://github.com/haven-protocol-org))  
 - [Utopia](https://u.is/en/) - All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.  
 - [Scala](https://scalaproject.io) - Scala is an open-source cryptocurrency. Distributed wealth for all devices ([GitHub](https://github.com/scala-network/))  
-- [Mysterium](https://www.mysterium.network) - An open-source ecosystem of tools and infrastructure to liberate the web ([GitHub](https://github.com/MysteriumNetwork))   
+- [Mysterium](https://www.mysterium.network) - An open-source ecosystem of tools and infrastructure to liberate the web ([GitHub](https://github.com/MysteriumNetwork)) 
 - [Arcana](https://arcana.network) - Users care about Privacy and Security, set your app apart with the most developer friendly data storage and privacy platform. Takes minutes to integrate ([Docs](https://docs.beta.arcana.network))
 - [Namada](https://namada.net) - Interchain Privacy ([Specs](https://specs.namada.net))  
 - [Highline](https://highline.dev) - Highline is an execution layer for Ethereum ([Docs](https://highline.dev/docs/))
@@ -270,6 +271,7 @@ Feel free to update the list!
 ## Other
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain ([GitHub](https://github.com/privy-io))
 - [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution) ([GitHub](https://github.com/automata-network/conveyor-sdk))
+- [Oasiis](https://oasiis.xyz/) - The first user-centric wallet cookie that creates actionable insights
 - [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce ([GitHub](https://github.com/particl))
 - [Spinner](https://spinner.cash) - Private transactions for ICP and BTC ([GitHub](https://github.com/spinner-cash))
 - [Incognito](https://incognito.org) - The privacy marketplace for crypto assets ([GitHub](https://github.com/incognitochain))
